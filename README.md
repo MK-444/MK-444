@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Maria
+
+![](https://komarev.com/ghpvc/?username=MK-444)
+
+## I'm a FrontEnd Developer
+- 💪 I like to write code
+- 🎉 I love new technologies
+- 🥅 I am constantly learning new things
+- ⚡ I like artificial inteligence and IoT
+
+
+
+
+
+
 
 <!--
 **MK-444/MK-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
