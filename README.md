@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MK-444)
 
-## I'm a FrontEnd Developer
+## I'm a Web Developer
 - 💪 I like to write code
 - 🎉 I love new technologies
 - 🥅 I am constantly learning new things
