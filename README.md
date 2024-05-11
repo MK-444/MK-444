@@ -1,18 +1,25 @@
-### Hi there 👋, I'm Maria
+### Hi 👋, I'm Maria
 
 ![](https://komarev.com/ghpvc/?username=MK-444)
 
-## I'm a Web Developer
-- 💪 I like to write code
-- 🎉 I love new technologies
-- 🥅 I am constantly learning new things
-- ⚡ I like artificial inteligence and IoT
+## My stack
 
-
-
-
-
-
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <!--
 **MK-444/MK-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
