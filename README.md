@@ -2,6 +2,28 @@
 
 ![](https://komarev.com/ghpvc/?username=MK-444)
 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class PythonDeveloper:
+
+    def __init__(self):
+        self.name = "Marie Kostenková"
+        self.role = "Python developer"
+        self.language_spoken = ["cs_CZ", "en_US", "uk", "ru-RU"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = PythonDeveloper()
+me.say_hi()
+```
+
+
 ## My stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
