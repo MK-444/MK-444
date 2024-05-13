@@ -4,23 +4,32 @@
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class PythonDeveloper:
+    """
+    👩‍💻 Just like the Singleton pattern ensures a single, unique instance, 
+    each of us is a singular, irreplaceable individual in this world.
+    """
+    _instance = None
+
+    def __new__(cls, *args, **kwargs):
+        """ 👶 We create ourselves, and everything depends solely on us. """
+        if cls._instance is None:
+            cls._instance = super().__new__(cls)
+        return cls._instance
 
     def __init__(self):
-        self.name = "Marie Kostenková"
-        self.role = "Python developer"
-        self.language_spoken = ["cs_CZ", "en_US", "uk", "ru-RU"]
+        self.name: str = "👩 Marie Kostenkova"
+        self.role: str = "🐍 Python developer"
+        self.language_spoken: set[str] = {"🇨🇿 cs_CZ", "🇺🇸 en_US", "🇺🇦 uk", "🇷🇺 ru-RU"}
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def say_hi(self) -> str:
+        """ Return my greeting message."""
+        return "😀 Thanks for dropping by, hope you find some of my work interesting."
 
 
 me = PythonDeveloper()
-me.say_hi()
+greeting = me.say_hi()
+print(greeting)
 ```
 
 
