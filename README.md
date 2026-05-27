@@ -19,7 +19,7 @@ class PythonDeveloper:
 
     def __init__(self):
         self.name: str = "👩 Marie Kostenkova"
-        self.role: str = "🐍 Python developer"
+        self.role: str = "🚀🐍 DevOps Engineer/Python developer"
         self.language_spoken: set[str] = {"🇨🇿 cs_CZ", "🇺🇸 en_US", "🇺🇦 uk", "🇷🇺 ru-RU"}
 
     def say_hi(self) -> str:
