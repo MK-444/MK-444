@@ -4,7 +4,7 @@
 
 
 ```python
-class PythonDeveloper:
+class Software Engineer:
     """
     👩‍💻 Just like the Singleton pattern ensures a single, unique instance, 
     each of us is a singular, irreplaceable individual in this world.
